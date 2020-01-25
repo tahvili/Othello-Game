@@ -1,0 +1,162 @@
+# Fill in, commit and push each day.
+Member name: Mohammad Tahvili      email: mohammad.tahvili@mail.utoronto.ca    utorid: tahvilim  
+
+Oct 17,2019
+	What I did yesterday: unpacking at my new house
+	What I will do today: unpacking at my new house
+	Obstacles I face: doing everything alone is hard
+
+Oct 18,2019
+	What I did yesterday: unpacking at my new house
+	What I will do today: unpacking at my new house
+	Obstacles I face: doing everything alone is hard
+
+Oct 19,2019
+	What I did yesterday: unpacking at my new house
+	What I will do today: Finding a team for CSC207
+	Obstacles I face: Team management and communication
+
+Oct 20,2019
+	What I did yesterday: Found a team for CSC207
+	What I will do today: Creating presentation for CSC290
+	Obstacles I face: Kept on forgetting my lines
+
+Oct 21,2019
+	What I did yesterday: created the presentation for CSC290
+	What I will do today: Practiced with the team for CSC290
+	Obstacles I face: Public speaking is hard
+
+Oct 22,2019
+	What I did yesterday: Got ready for presentation
+	What I will do today: Presenting in CSC290
+	Obstacles I face: Team management is hard
+
+Oct 23,2019
+	What I did yesterday: Presented in CSC290
+	What I will do today:Midterm for CSC236
+	Obstacles I face: Have no idea or clue of mathematical induction
+
+Oct 24,2019
+	What I did yesterday: Finished my midterm for CSC236
+	What I will do today: Study for MAT232 Midterm
+	Obstacles I face: Math is not my strength so need to work on it
+
+Oct 25,2019
+	What I did yesterday: Studying for MAT232 Midterm
+	What I will do today:MAT232 Midterm
+	Obstacles I face: Got home very late
+
+Oct 26,2019
+	What I did yesterday: Finished the MAT232 Midterm
+	What I will do today: Start and finish the first part of A2 for CSC207
+	Obstacles I face: Had to sit down for 12 hours on a group call with my team
+
+Oct 27,2019
+	What I did yesterday: Finished the first part of the assignment
+	What I will do today: Start and finish the code commit for CSC290
+	Obstacles I face: Had to multitask between multiple meetings, and CSC290 meetings.
+
+Oct 28,2019
+	What I did yesterday: Started and finished the code commit for CSC290
+	What I will do today: hold our second meeting, and start working on some sprintbacklogs
+	Obstacles I face: potential coding misunderstanding
+
+Oct 29,2019
+	What I did yesterday: Had our weekly scrum meeting and took responsibilities of user stories
+	What I will do today: Try to fix the code so that it aligns with the MVC Principle
+	Obstacles I face: Trying to work over an slow wifi is hard
+
+Oct 30,2019
+	What I did yesterday: Fixed our code so it aligns with the MVC principle
+	What I will do today: Start gathering my thoughts on how to study for the midterm
+	Obstacles I face: I hate studying and reading
+
+Oct 31,2019
+	What I did yesterday: Ended up working and making some money
+	What I will do today: Start studying for CSC207
+	Obstacles I face: I hate studying and reading
+
+Nov 1,2019
+	What I did yesterday: Studying for CSC207
+	What I will do today: CSC207 midterm
+	Obstacles I face: it was bad 
+
+Nov 2,2019
+	What I did yesterday: CSC207 midterm
+	What I will do today: Start working on some of the user stories
+	Obstacles I face: Team commonication
+
+Nov 3,2019
+	What I did yesterday: Finished working some of the user stories
+	What I will do today: Hold Weekly Scrum Meeting & Start studying for CSC290
+	Obstacles I face: As if I am going to study
+
+Nov 4,2019
+	What I did yesterday: Study CSC290 midterm
+	What I will do today: CSC290 midterm
+	Obstacles I face: I can't memorize anything
+
+Nov 5,2019
+	What I did yesterday: CSC290 midterm
+	What I will do today: Work and make money
+	Obstacles I face: felt sick and tired
+
+Nov 6,2019
+	What I did yesterday: work and make money
+	What I will do today: run three events on campus
+	Obstacles I face: i don't like talking to people
+
+Nov 7,2019
+	What I did yesterday: run three events on campus
+	What I will do today: start working on the AI on CSC207
+	Obstacles I face: What is AI again?
+
+Nov 8,2019
+	What I did yesterday: Finished AI user story
+	What I will do today: Finish and handing CSC236
+	Obstacles I face: I can't do math
+
+Nov 9,2019
+	What I did yesterday: Finished CSC236
+	What I will do today: Help and make progress on US1.091
+	Obstacles I face: Team communitation
+
+Nov 10,2019
+	What I did yesterday: Made some progress with the project
+	What I will do today: Clean up AI and finish US 1.14
+	Obstacles I face: Time management
+
+Nov 11,2019
+	What I did yesterday: Clean up AI and finish US 1.14
+	What I will do today: Study for CSC236
+	Obstacles I face: I have math
+
+Nov 12,2019
+	What I did yesterday: Study for CSC236
+	What I will do today: Fix hint buttons
+	Obstacles I face: understanding if statements
+
+Nov 13,2019
+	What I did yesterday: Fix hint buttons
+	What I will do today: CSC236 Midterm
+	Obstacles I face: It was hell
+
+Nov 14,2019
+	What I did yesterday: CSC236 Midterm
+	What I will do today: Optimize the speed of the game
+	Obstacles I face: understanding the reasoning behind the notifyObservers
+
+Nov 15,2019
+	What I did yesterday: Optimize the speed of the game
+	What I will do today: Let user decide if they want to play first or not
+	Obstacles I face: Changing the way the game is programmed is confusing
+
+Nov 16,2019
+	What I did yesterday: Let user decide if they want to play first or not
+	What I will do today: Start working on UX
+	Obstacles I face: designing and figuring out where everything should go is hard
+
+Nov 17,2019
+	What I did yesterday: Started working on UX
+	What I will do today: Finished the UX design (USER STORY 1.18) 
+	Obstacles I face: Placement of the objects

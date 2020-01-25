@@ -1,0 +1,164 @@
+# Fill in, commit and push each day.
+Member name: Richard Mba     email: richard.mba@mail.utoronto.ca     utorid: mbaricha   
+
+Oct 17,2019
+	What I did yesterday: Slept most of the day to be honest
+	What I will do today: Caught up on some work for ENV100
+	Obstacles I face: its quite hard to go through 8 hours of lectures, also not fun at all 
+
+Oct 18,2019
+	What I did yesterday: Caught up on some work for ENV100
+	What I will do today: Began the Implementation part of csc290 assignment
+	Obstacles I face: The hardest part of any project is starting with a clear idea of wht you want 
+
+Oct 19,2019
+	What I did yesterday: Began the Implementation part of csc290 assignment
+	What I will do today: presentation/implementation parts of csc290 assignment
+	Obstacles I face: the second part of any project is realizing when what you though you wanted is 
+	actually what you hate the most. 
+
+Oct 20,2019
+	What I did yesterday: Worked on Implementation aspect of csc290 
+	What I will do today: Studied for 236
+	Obstacles I face: A lot of content, but nuance is important in this class
+
+Oct 21,2019
+	What I did yesterday: Studied for 236
+	What I will do today: Work(12 hour shift, Elections Canada)
+	Obstacles I face: Staying awake, because the job was very dry
+
+Oct 22,2019
+	What I did yesterday: Work(12 hour shift, Elections Canada)
+	What I will do today: csc290 Presentation 
+	Obstacles I face: Stage frieght is a common thing, tried to work against that. 
+
+Oct 23,2019
+	What I did yesterday: csc290 Presentation 
+	What I will do today: Midterm for 236
+	Obstacles I face: staying relaxed and focused on the doing well
+
+Oct 24,2019
+	What I did yesterday: Midterm for 236
+	What I will do today: Continued implementation on csc290 assignment
+	Obstacles I face: the scope of the project might be too big
+
+Oct 25,2019
+	What I did yesterday: Continued implementation on csc290
+	What I will do today: Continued implementation on csc290
+	Obstacles I face: Fell into quite a big problem today, spent a lot of time debugging
+
+Oct 26,2019
+	What I did yesterday: Continued implementation on csc290
+	What I will do today: Start and finished the first part og A2 for csc207
+	Obstacles I face: the 12 hour call wasn't fun, but at least its done right... (for now)
+
+Oct 27,2019
+	What I did yesterday: Start and finished the first part og A2 for csc207
+	What I will do today: Finished csc290 implementation portion of assignment 
+	Obstacles I face: 6 hours of coding is something that i enjoy alot
+
+Oct 28,2019
+	What I did yesterday: Finished csc290 implementation portion of assignment 
+	What I will do today: hold our second meeting, and start working on some sprintbacklogs
+	Obstacles I face: working in a group 
+
+Oct 29,2019
+	What I did yesterday: held our second meeting, and start working on some sprintbacklogs
+	What I will do today: update daily scrum for today as well as study for csc207 midterm
+	Obstacles I face: skipped some lecturs so, there will be some catch up 
+
+Oct 30,2019
+	What I did yesterday: updated daily scrum as well as studied for csc207 midterm
+	What I will do today: update daily scrum for today as well as study for csc207 midterm
+	Obstacles I face: completing reading all tge lecturss as well as atttempting some exercises
+
+Oct 31,2019
+	What I did yesterday: updated daily scrum as well as study for csc207 midterm
+	What I will do today: Completed User Story 1.06 and update daily scrum
+	Obstacles I face: JavaFX and setting button icons arent straight forward 
+
+Nov 1,2019
+	What I did yesterday: Completed User Story 1.06 and update daily scrum
+	What I will do today: Midterm csc207
+	Obstacles I face: trying to not fail  
+
+Nov 2,2019
+	What I did yesterday: Midterm csc207
+	What I will do today: Complete User Story 1.09 and update daily scrum 
+	Obstacles I face: Why clocks? 
+
+Nov 3,2019
+	What I did yesterday: Completed User Story 1.09 and update daily scrum 
+	What I will do today: Study for csc290 midterm 
+	Obstacles I face: I can barely speak english so the course has been a bit of a challenge 
+
+Nov 4,2019
+	What I did yesterday: Studied for csc290 midterm 
+	What I will do today: Help finish BUG1.09 and midterm for 290
+	Obstacles I face: somehow the bug was easier to deal with than that midterm. 
+
+Nov 5,2019
+	What I did yesterday: Helped finish BUG1.09 and midterm for 290
+	What I will do today: Work on csc236 assignment 
+	Obstacles I face: this is not a great assignment, divide and conquer is pretty unpopular 
+
+Nov 6,2019
+	What I did yesterday: Worked on csc236 assignment 
+	What I will do today: Work on csc236 assignment
+	Obstacles I face: question 4 is a long and rigirous journey, i hope to reach its destination 
+
+Nov 7,2019
+	What I did yesterday: Worked on csc236 assignment
+	What I will do today: CSC207 BUG1.092 along as help with US1.10 and US1.11
+	Obstacles I face: AI hint seems like an interesting challenge 
+
+Nov 8,2019
+	What I did yesterday: CSC207 BUG1.092 along as help with US1.10 and US1.11
+	What I will do today: Help group member work on US1.10
+	Obstacles I face: Finishing off some haggling parts of the code
+
+Nov 9,2019
+	What I did yesterday: Helped group member work on US1.10
+	What I will do today: csc207 have our scrum meeting
+	Obstacles I face: Remembering what i have done since last time
+
+Nov 10,2019
+	What I did yesterday: csc207 had our scrum meeting
+	What I will do today: csc207 US1.13
+	Obstacles I face: Animation in JavaFX is not straight forward
+
+Nov 11,2019
+	What I did yesterday: csc207 US1.13
+	What I will do today: Study for csc236 midterm 2
+	Obstacles I face: its a tough course 
+
+Nov 12,2019
+	What I did yesterday: Studied for csc236 midterm 2
+	What I will do today: Study for csc236 midterm 2
+	Obstacles I face: Master theorem and Program correctness(loop invariants specifically)
+
+Nov 13,2019
+	What I did yesterday: Studied for csc236 midterm 2
+	What I will do today: Take csc236 midterm 
+	Obstacles I face: Hopefully will be better than first one
+
+Nov 14,2019
+	What I did yesterday: Took csc236 midterm
+	What I will do today: csc290 code implementation for project 
+	Obstacles I face: Hopefully i will remember what i wrote since last time
+
+Nov 15,2019
+	What I did yesterday: csc290 code implementation for project 
+	What I will do today: BUG1.17 csc207 a2
+	Obstacles I face: Vistor design pattern ia a pain 
+
+Nov 16,2019
+	What I did yesterday: BUG1.17 csc207 a2
+	What I will do today: BUG1.141 created and fixed 
+	Obstacles I face: Understanding how the button colour and game interacts 
+
+Nov 17,2019
+	What I did yesterday: BUG1.141 created and fixed 
+	What I will do today: some work for csc290 and some work for csc2o7 assignments
+	Obstacles I face: deadlines are rushing in for both these items of these classes
+						I hope to work on dealing with stress

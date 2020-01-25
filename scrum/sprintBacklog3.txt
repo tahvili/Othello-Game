@@ -1,0 +1,101 @@
+`# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 3 Nov 03-Nov 09, 2019
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : BUG 1.091 : poojaryr : STATUS : Complete
+NAME     : 2 timers needed for game clarity
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 2 hours    	ACTUAL : 2 hours
+ISSUE    : Having just one timer made things confusing. Updates for time 
+for both players were being made on a single timer.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : poojaryr : STATUS : Complete
+NAME     : Othello Timer User Specified Time
+OWNER    : Rohan
+PRIORITY : 3
+ESTIMATE : 2 hours ACTUAL :  3 hours 
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.092 : mbaricha : STATUS : Complete
+NAME     : Running out of time issue
+OWNER    : Richard
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL :  1 hour
+ISSUE    : The player who runs out of the time should automatically lose the game
+irrespective of the status of the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.10 : tahvilim : STATUS : Complete
+NAME     : AI Hint
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL : 2 hours
+ISSUE    : When the user is playing, the current mover can select a gui
+component (click a button etc) and a hint will display. For this user story
+just display the (row, col) of the hint.
+
+NOTE: Add some other user stories (1.101, 1.102, ...) which improve on this,
+For example: 
+1) Instead of displaying the (row,col) how about highlighting the position
+on the board.
+
+2) User can select a menu item/checkbox etc. to have, for example, the greedy hint highlighted
+on the board at all times. 
+
+3) As in 2, but a random hint
+...
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.11 : lishau : STATUS : Complete
+NAME     : Restart
+OWNER    : Michael
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  2 hours
+ISSUE    : When a user is playing, they see a button etc. which allows them
+to restart the game. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.12 : lishau : STATUS : Complete
+NAME     : Undo
+OWNER    : Michael
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  2 hours    
+ISSUE    : A user has the ability to undo the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.12 : poojaryr : STATUS : Complete
+NAME     : Undo
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 3 hours    ACTUAL :  4 hours    
+ISSUE    : Undo was not implemented using command Design pattern. Therefore, I
+implemented command Design pattern to make  code design better.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : mbaricha : STATUS : Complete
+NAME     : Animation
+OWNER    : Richard
+PRIORITY : 1
+ESTIMATE : 2 hours  ACTUAL : 2 hours 
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.14 : tahvilim : STATUS : Complete
+NAME     : Available moves
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 2 hours
+ISSUE    : When a user is playing, they see the positions that they can
+move highlighted vs the positions they can't move.
+--------------------------------------------------------------------------

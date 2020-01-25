@@ -1,0 +1,382 @@
+# User Stories/Bugs (add as appropriate), modify at each Sprint Planning Meeting
+# If a USER STORY is large, break it into smaller user stories.
+
+--------------------------------------------------------------------------
+TYPE     : BUG 0.01 : tahvilim : STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 2 hours    	ACTUAL : 2 hours
+ISSUE    : Member 1 
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+-------------------------------------------------------------------------- 
+TYPE     : BUG 0.02 : lishau : STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Michael
+PRIORITY : 1
+ESTIMATE : 2 hours   	ACTUAL :  2 hours
+ISSUE    : Member 2 
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.03 : mbaricha : STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Richard
+PRIORITY : 1 
+ESTIMATE : 2 hours   	ACTUAL : 2 hours 
+ISSUE    : Member 3
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.04 : poojaryr : STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Rohan Poojary
+PRIORITY : 1
+ESTIMATE : 2 hours  	ACTUAL :  2 hours
+ISSUE    : Member 4
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.01 : tahvilim : STATUS : Complete
+NAME     : OthelloGUI Click Registration
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 1 hours    	ACTUAL :  1 hour
+ISSUE    : User can now click on an 8x8 grid of buttons used by the 
+OthelloApplication. At this stage, a click results in a print out of 
+the (row,col) that the user clicked.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.011 : poojaryr : STATUS : Complete
+NAME     : OthelloGUI Buttons Active, Console View
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 1 hours  	ACTUAL :  2 hours
+ISSUE    : The users can now use the OthelloGUI created in US1.01 
+for Human vs Human play. Now when the user clicks a button, the resulting
+board is printed on the console. This basically replaces the keyboard
+in the old HumanVSHuman game, but the output is still on the console.
+NOTE: Make sure that you are using good MVC principles in implementing this.
+If you didn't then file BUG 1.012 to fix the implementation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.02 : mbaricha : STATUS : Complete
+NAME     : Othello Board Human VS Human
+OWNER    : Richard
+PRIORITY : 1
+ESTIMATE : 3 hours   ACTUAL : 3 hours
+ISSUE    : The users can now use the OthelloGUI created in US1.012 
+for Human vs Human play. The grid buttons simply show X and O text
+labels for the buttons. There is no longer a console display as in 1.012.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.021 : lishau : STATUS : Complete
+NAME     : Check Architecture
+OWNER    : Michael
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  1 hour
+ISSUE    : If your code is not MVC right now, fix it to MVC. Pay the price
+now to create a good architecture, rather than clean up a lot of code later.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.03 : tahvilim :  STATUS : Complete
+NAME     : Whos Next
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 2 hours 
+ISSUE    : When users play HumanVSHuman, the player that moves next is on display, 
+correctly showing the token of the next player to make a move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.04 : poojaryr : STATUS : Complete
+NAME     : Token Counter
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  1 hour
+ISSUE    : When user play, the count for each player is on display. 
+This count shows the 
+current number of P1 tokens and P2 tokens on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.05 : poojaryr : STATUS : Complete
+NAME     : Who Won
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  1 hour
+ISSUE    : When users play, the current status of the game is on display, showing the token
+of the winner of the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.06 : mbaricha : STATUS : Complete
+NAME     : Change tokens to Images
+OWNER    : Richard
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour 
+ISSUE    : When users are playing and the board is on display, 
+instead of displaying X and O as players, the users see 
+appropriate black/white tokens.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.07 : lishau : STATUS : Complete
+NAME     : Opponent Chooser GUI Selection
+OWNER    : Michael
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL :  1 hour
+ISSUE    : When users are playing, they see a GUI which allows the user to 
+choose whether to play HumanVSHuman, HumanVSGreedy, HumanVSRandom.
+This user story involves
+just providing the gui for choice. After choosing, log the choice to
+the console, the game actually
+plays HumanVSHuman for now. The user should be able to switch opponents
+at any time during game play. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.071 : poojaryr : STATUS : Complete
+NAME     : Opponent Chooser GUI Display
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 2 hours ACTUAL :  2 hours
+ISSUE    : An extension to Opponent Chooser, the current player types
+are on display, so for example, 
+P1: Human  P2: Greedy 
+P1: Random P2: Human
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.08 : tahvilim : STATUS : Complete
+NAME     : Opponent Chooser Implementation
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL :  2 hours
+ISSUE    : An extension to Opponent Chooser, we implement the users choice
+of opponent, so the Human can actually play the select opponent. Reminder:
+the user should be able to switch opponents at any time during game play.
+THe current game continues with the new opponent.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.09 : mbaricha : STATUS : Complete
+NAME     : Othello Timer Fixed Time
+OWNER    : Richard
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour 
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the time is fixed to 5 minutes/player.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.091 : poojaryr : STATUS : Complete
+NAME     : 2 timers needed for game clarity
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 2 hours    	ACTUAL : 2 hours
+ISSUE    : Having just one timer made things confusing. Updates for time 
+for both players were being made on a single timer.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.091 : poojaryr : STATUS : Complete
+NAME     : Othello Timer User Specified Time
+OWNER    : Rohan
+PRIORITY : 3
+ESTIMATE : 3 hours   ACTUAL : 3 hours 
+ISSUE    : When users play, they see a chess like timer for the othello game. 
+For this user story, the user is allowed to specify the time for each user.
+After a player makes a move the timer switches off for the player and on for the next mover.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.092 : mbaricha : STATUS : Complete
+NAME     : Running out of time issue
+OWNER    : Richard
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL :  1 hour
+ISSUE    : The player who runs out of the time should automatically lose the game
+irrespective of the status of the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.10 : tahvilim : STATUS : Complete
+NAME     : AI Hint
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL : 2 hours
+ISSUE    : When the user is playing, the current mover can select a gui
+component (click a button etc) and a hint will display. For this user story
+just display the (row, col) of the hint.
+
+NOTE: Add some other user stories (1.101, 1.102, ...) which improve on this,
+For example: 
+1) Instead of displaying the (row,col) how about highlighting the position
+on the board.
+
+2) User can select a menu item/checkbox etc. to have, for example, the greedy hint highlighted
+on the board at all times. 
+
+3) As in 2, but a random hint
+...
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.11 : lishau : STATUS : Complete
+NAME     : Restart
+OWNER    : Michael
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  2 hours
+ISSUE    : When a user is playing, they see a button etc. which allows them
+to restart the game. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.12 : lishau : STATUS : Complete
+NAME     : Undo
+OWNER    : Michael
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  2 hours    
+ISSUE    : A user has the ability to undo the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.12 : poojaryr : STATUS : Complete
+NAME     : Undo
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 3 hours    ACTUAL :  4 hours    
+ISSUE    : Undo was not implemented using command Design pattern. Therefore, I
+implemented command Design pattern to make  code design better.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : mbaricha : STATUS : Complete
+NAME     : Animation
+OWNER    : Richard
+PRIORITY : 1
+ESTIMATE : 2 hours  ACTUAL : 2 hours 
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.14 : tahvilim : STATUS : Complete
+NAME     : Available moves
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 2 hours
+ISSUE    : When a user is playing, they see the positions that they can
+move highlighted vs the positions they can't move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.141 : mbaricha : STATUS : Complete
+NAME     : Available players graphical issues 
+OWNER    : Richard
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  2 hours
+ISSUE    : fixing graphical issues when we click a hit and pick a 
+button that is not the hint's position 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.101 : tahvilim : STATUS : Complete
+NAME     : Fix hint buttons
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL :  3 hours
+ISSUE    : Making sure that random hint is not overriding winning hint.
+Making sure that get hint is disabled while random hint and winning hint.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.15 : poojaryr : STATUS : Complete
+NAME     : Better strategy
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 4 hours   ACTUAL : 4 hours 
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.102 : tahvilim : STATUS : Complete
+NAME     : Fix speed and lag issue related to AI hint
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL :  2 hours
+ISSUE    : We were notifying the observers too often, which was causing the game to run very slow.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.151 : tahvilim : STATUS : Complete
+NAME     : Hint buttons are not linked to each other
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 2 hours 	ACTUAL : 2 hours
+ISSUE    : All hint buttons work properly but they don't work well together. Need to link them up
+so they work well together.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.071 : tahvilim : STATUS : Complete
+NAME     : Letting user choose to be player 1 or player 2
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 4 hours 	ACTUAL : 4 hours
+ISSUE    : The player should be able to choose if they want to start the move first, or someone else should. 
+Also should be able to decide if the opponent is a human, greedy, or random.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.152 : poojaryr : STATUS : Completed
+NAME     : Code formatting and cleaning along with other minor changes
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 5 hours 	ACTUAL : 7 hours
+ISSUE    : Need to format the code so that it follows naming convention and object oriented
+design principles. Need to make minor changes to Restart and BetterPlayer
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.17 : mbaricha : STATUS : Complete
+NAME     : Use Visitor for Othello board
+OWNER    : Richard
+PRIORITY : 1
+ESTIMATE : 4 hours    ACTUAL : 6 hours
+ISSUE    : There is a lot of replicated code in Othello and OthelloBoard, all of
+which visits the board in one of a few different ways. Implement the 
+visitor design pattern on the OthelloBoard and rewrite code using othello
+and othello board to now create visitors and use them as appropriate.
+
+NOTE: Some private methods could be removed as a result of this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.17 : poojaryr : STATUS : Complete
+NAME     : Alert Dialog Boxes
+OWNER    : Rohan
+PRIORITY : 1
+ESTIMATE : 1 hour  ACTUAL : 1 hour
+ISSUE    : Added alert dialog boxes to alert the user while performing the restart and
+undo operations. Also, fixed a bug that made the timer not behave as desired when the
+restart button was clicked.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.18 : tahvilim : STATUS : Complete
+NAME     : UX Design of Othello
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 6 hours 	ACTUAL : 6 hours
+ISSUE    : Create the background, logos, images, and colors that will be used 
+to make the game look better when the player is going to play the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.99 : lishau : STATUS : Complete
+NAME     : Architecture Document
+OWNER    : Michael
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  1 hour
+ISSUE    : Complete architecture.txt outlining any interesting features about
+your design. You should outline which design patterns you used where.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.991 : tahvilim : STATUS : Complete
+NAME     : Restart and GameOver Glitches
+OWNER    : Mohammad
+PRIORITY : 1
+ESTIMATE : 2 hours 	ACTUAL : 2 hours
+ISSUE    : Restart is not truly resetting the game, 
+and when the game is over the players can still play.
+--------------------------------------------------------------------------

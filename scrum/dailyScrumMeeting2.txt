@@ -1,0 +1,162 @@
+# Fill in, commit and push each day.
+Member name: Shau Ching Michael Li     email: michaelsc.li@mail.utoronto.ca     utorid: lishau  
+
+Oct 17,2019
+	What I did yesterday: doing CSC236 assignment
+	What I will do today: doing CSC236 assignment
+	Obstacles I face: every problem is hard
+
+Oct 18,2019
+	What I did yesterday: doing CSC236 assignment
+	What I will do today: finishing CSC236 assignment
+	Obstacles I face: every problem is hard
+
+Oct 19,2019
+	What I did yesterday: finishing CSC236 assignment
+	What I will do today: making CSC290 presentation
+	Obstacles I face: thinking about what to say in the presentation
+
+Oct 20,2019
+	What I did yesterday: making CSC290 presentation
+	What I will do today: making CSC290 presentation
+	Obstacles I face: saying my part in time
+
+Oct 21,2019
+	What I did yesterday: making CSC290 presentation
+	What I will do today: practicing the presentation
+	Obstacles I face: remembering my part
+
+Oct 22,2019
+	What I did yesterday: practicing the presentation
+	What I will do today: presenting in CSC290 and prepare for CSC236 test
+	Obstacles I face: being stressful in the presentation
+
+Oct 23,2019
+	What I did yesterday: presenting in CSC290
+	What I will do today: CSC236 test
+	Obstacles I face: the hard question on the test
+
+Oct 24,2019
+	What I did yesterday: CSC236 test
+	What I will do today: doing homework on AST101
+	Obstacles I face: the reading
+
+Oct 25,2019
+	What I did yesterday: doing homework on AST101
+	What I will do today: doing homework on AST101
+	Obstacles I face: the reading
+
+Oct 26,2019
+	What I did yesterday: doing homework on AST101
+	What I will do today: Started and finished BUG0.01 to BUG0.04 and US up to and including US1.021
+	Obstacles I face: doing eveything in a day is stressful
+
+Oct 27,2019
+	What I did yesterday: Started and finished BUG0.01 to BUG0.04 and US up to and including US1.021
+	What I will do today: worked on CSC290 group project
+	Obstacles I face: needed to remember how to code in python
+
+Oct 28,2019
+	What I did yesterday: worked on CSC290 group project
+	What I will do today: doing homework on AST101 and PHY100
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday: doing homework on AST101 and PHY100
+	What I will do today: finishing homework on AST101 and PHY100
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday: finishing homework on AST101 and PHY100
+	What I will do today: CSC207 midterm review
+	Obstacles I face: a lot to be remember
+
+Oct 31,2019
+	What I did yesterday: CSC207 midterm review
+	What I will do today: CSC207 midterm review and US1.07
+	Obstacles I face: unerstanding others code
+
+Nov 1,2019
+	What I did yesterday: CSC207 midterm review and US1.07
+	What I will do today: CSC207 midterm 
+	Obstacles I face: Observers and Observable
+
+Nov 2,2019
+	What I did yesterday: CSC207 midterm 
+	What I will do today: helping others on their US and CSC290 midterm review
+	Obstacles I face: understanding others code
+
+Nov 3,2019
+	What I did yesterday: CSC290 midterm review
+	What I will do today: CSC290 midterm review
+	Obstacles I face: too much to remeber
+
+Nov 4,2019
+	What I did yesterday: CSC290 midterm review
+	What I will do today: CSC290 midterm and AST101 midterm review
+	Obstacles I face: too much to remeber
+
+Nov 5,2019
+	What I did yesterday: CSC290 midterm and AST101 midterm review
+	What I will do today: AST101 midterm
+	Obstacles I face: very tired
+
+Nov 6,2019
+	What I did yesterday: AST101 midterm
+	What I will do today: rest
+	Obstacles I face: 
+
+Nov 7,2019
+	What I did yesterday: rest
+	What I will do today: work on US1.11 and helping others on their US
+	Obstacles I face: understanding others code
+
+Nov 8,2019
+	What I did yesterday: worked on US1.11
+	What I will do today: Finish US1.11
+	Obstacles I face: understanding others code
+
+Nov 9,2019
+	What I did yesterday: Finished US1.11
+	What I will do today: Finish US1.12
+	Obstacles I face: remebering how to use stack
+
+Nov 10,2019
+	What I did yesterday: Finished US1.12
+	What I will do today: work on CSC290 documentation
+	Obstacles I face: do not know what to write 
+
+Nov 11,2019
+	What I did yesterday: worked on CSC290 documentation
+	What I will do today: work on PHY100 Assignment
+	Obstacles I face: not enough time
+
+Nov 12,2019
+	What I did yesterday: work on PHY100 Assignment
+	What I will do today: work on PHY100 Assignment
+	Obstacles I face: not enough time
+
+Nov 13,2019
+	What I did yesterday: work on PHY100 Assignment
+	What I will do today: work on PHY100 final Assignment
+	Obstacles I face:not enough time
+
+Nov 14,2019
+	What I did yesterday: work on PHY100 final Assignment
+	What I will do today: work on PHY100 final Assignment
+	Obstacles I face:not enough time
+
+Nov 15,2019
+	What I did yesterday: work on PHY100 final Assignment
+	What I will do today: work on the code together
+	Obstacles I face:understanding other's code
+
+Nov 16,2019
+	What I did yesterday:
+	What I will do today: Helped on other US and start architecture.txt
+	Obstacles I face: understanding other's code
+
+Nov 17,2019
+	What I did yesterday: Helped on other US and start architecture.txt
+	What I will do today: finish architecture.txt
+	Obstacles I face: remembering everything we have done

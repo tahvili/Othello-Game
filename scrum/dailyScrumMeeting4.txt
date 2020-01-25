@@ -1,0 +1,163 @@
+# Fill in, commit and push each day.
+Member name: Rohan Poojary      email: rohan.poojary@mail.utoronto.ca     utorid: poojaryr
+
+Oct 17,2019
+	What I did yesterday: Doing 236 Assignment 
+	What I will do today: Make progress on 236 Assignment 
+	Obstacles I face: Questions are difficult and thought provoking 
+
+Oct 18,2019
+	What I did yesterday: Made good progress in my 236 Assignment 
+	What I will do today: Finish and submit my 236 Assignment 
+	Obstacles I face: Questions are difficult and thought provoking 
+
+Oct 19,2019
+	What I did yesterday: Finished and submitted my 236 Assignment 
+	What I will do today: Prepare for a coding interview with Salesforce
+	Obstacles I face: Realised that I need to do a lot of practice on leetcode and Hackerrank
+
+Oct 20,2019
+	What I did yesterday: Prepared for a coding interview with Salesforce
+	What I will do today: I will give my coding interview and do CSC236 Reading and pre-lecture quiz
+	Obstacles I face: Difficult interview and complicated readings in CSC236
+
+Oct 21,2019
+	What I did yesterday: Gave my coding interview and did CSC236 reading and pre-lecture quiz
+	What I will do today: Prepare for CSC236 Midterm and finish Lab 06 for CSC207
+	Obstacles I face: Content was difficult and realized I needed more practice 
+
+Oct 22,2019
+	What I did yesterday: Prepared for CSC236 Midterm and completed lab 06 for CSC207
+	What I will do today: Prepare for CSC236 Midterm
+	Obstacles I face: Step counting for recursive algorithm was difficult
+
+Oct 23,2019
+	What I did yesterday: Prepared for CSC236 Midterm
+	What I will do today: Give my CSC236 Midterm
+	Obstacles I face: Luckily, the midterm went well.
+
+Oct 24,2019
+	What I did yesterday: Gave my CSC236 Midterm
+	What I will do today: Prepare for MAT232 Midterm
+	Obstacles I face: The content was too vast and it took a lot of time to understand how to apply Lagrange Multipliers.
+
+Oct 25,2019
+	What I did yesterday: Prepared for MAT232 Midterm
+	What I will do today: Give my MAT232 midterm 
+	Obstacles I face: Midterm was difficult, needed to de-stress.
+
+Oct 26,2019
+	What I did yesterday: Gave MAT232 Midterm and relaxed.
+	What I will do today: Held our first sprint meeting and went on an about 10 hour coding marathon to meet Sprint 1 deadline
+	Obstacles I face: Figuring out how to implement MVC Principle was very difficult  
+
+Oct 27,2019
+	What I did yesterday: Finished Sprint 1 on assignment 
+	What I will do today: Thought about the tasks to be done in Sprint 2, but have a religious function so I do not plan to start yet
+	Obstacles I face: Looking forward to the challenge in Sprint 2
+
+Oct 28,2019
+	What I did yesterday: Thought about the tasks to be done in Sprint 2 and scheduled the weekly sprint meeting for tomorrow
+	What I will do today: Have our weekly scrum meeting and take responsibilities of user stories
+	Obstacles I face: Trying to figure out the link between GUI and the board while implementing MVC Principle.
+
+Oct 29,2019
+	What I did yesterday: Had our weekly scrum meeting and took responsibilities of user stories
+	What I will do today: Try to fix the code so that it aligns with the MVC Principle
+	Obstacles I face: Understanding the relationship between observer and observable was challenging.
+
+Oct 30,2019
+	What I did yesterday: Made the code align with MVC Principles with Mohammad
+	What I will do today: Try to complete US1.04 and US1.05
+	Obstacles I face: Once we figured out MVC Design, things went smoothy.
+
+Oct 31,2019
+	What I did yesterday: Completed US1.04 and US1.05
+	What I will do today: Begin working on US1.071 and study for CSC207 Midterm
+	Obstacles I face: Had a little difficulty understanding code written by other team members, but it was explained to me during the dailyScrumMeeting.
+
+Nov 1,2019
+	What I did yesterday: Studied for CSC207 Midterm
+	What I will do today: Give CSC207 Midterm
+	Obstacles I face: Faced difficulty while making certain designn decisions 
+
+Nov 2,2019
+	What I did yesterday: Gave CSC207 Midterm
+	What I will do today: Work on US 1.071
+	Obstacles I face: Found it difficult to take certain design decisions.
+
+Nov 3,2019
+	What I did yesterday: Finished US 1.071
+	What I will do today: Attend Sprint Meeting and start working on a User Story
+	Obstacles I face: Understanding edited code was challenging.
+
+Nov 4,2019
+	What I did yesterday:Attended Sprint Meeting and start working on a User Story
+	What I will do today: Fix BUG 1.091 
+	Obstacles I face: Creating two timers and linking them to the view with the current 
+	implementation of the code was difficult and needed a lot of edits to be made
+
+Nov 5,2019
+	What I did yesterday: Fixed BUG 1.091
+	What I will do today: Study for MAT232 Quiz and do CSC236 Problem Set
+	Obstacles I face: Too much workload at the same time
+
+Nov 6,2019
+	What I did yesterday: Studied for MAT232 Quiz and did CSC236 Problem Set
+	What I will do today: Study for STA256 Midterm, give MAT232 Quiz, do CSC236 Problem Set
+	Obstacles I face: Too much workload at the same time
+
+Nov 7,2019
+	What I did yesterday: studied for STA256 Midterm
+	What I will do today: give STA256 Midterm and do CSC236 Problem Set
+	Obstacles I face: Too much workload, not able to give enough time to the assignment 
+
+Nov 8,2019
+	What I did yesterday: give STA256 Midterm and did CSC236 Problem Set
+	What I will do today: Complete US1.091
+	Obstacles I face: Making the timer, game and user input work together was difficult 
+
+Nov 9,2019
+	What I did yesterday: Completed US1.091
+	What I will do today: Fix BUG 1.12
+	Obstacles I face: Implementing the code using Command Design Pattern was initially challenging.
+
+Nov 10,2019
+	What I did yesterday: Fixed BUG1.12
+	What I will do today: Studied for CSC236 Midterm
+	Obstacles I face: Nothing significant.
+
+Nov 11,2019
+	What I did yesterday: Studied for CSC236 Midterm
+	What I will do today: help my team-mate in fixing some of the existing code
+	Obstacles I face: Nothing really
+
+Nov 12,2019
+	What I did yesterday: helped my team-mate in fixing some of the existing code
+	What I will do today: Start working on US 1.15 
+	Obstacles I face: To  link existing code to this new code efficiently
+
+Nov 13,2019
+	What I did yesterday: Started Working on US 1.15
+	What I will do today: Complete US 1.15
+	Obstacles I face: Trying to make code cleaner
+
+Nov 14,2019
+	What I did yesterday: Completed most of US  1.15
+	What I will do today: Give CSC236 Midterm 
+	Obstacles I face: Nothing much
+
+Nov 15,2019
+	What I did yesterday: Gave CSC236 Midterm
+	What I will do today: Complete remaining part of US 1.15  
+	Obstacles I face: Things were straightforward
+
+Nov 16,2019
+	What I did yesterday: Completed US1.15
+	What I will do today: Complete US1.17 and fix a minor bug related to restart button
+	Obstacles I face: Nothing really!
+
+Nov 17,2019
+	What I did yesterday: Completed US1.17 and fixed a minor bug related to restart button
+	What I will do today: Complete BUG 1.152 and submit assignment 2
+	Obstacles I face: A lot of code formatting and cleaning needed

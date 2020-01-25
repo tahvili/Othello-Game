@@ -1,0 +1,150 @@
+Commit ID: c889d0e62cd5d86af96e53e25af3cd34d5c0e8ce
+DOCUMENTATION	5 / 5
+	5: Most or all function they have proper Javadoc
+	4: 
+	3: some meaningful documentation, 50% of the criteria, done well.
+	2: 
+	1: nonsense/limited documentation
+
+CODING STYLE	3 / 5 *2
+	5: Most or all function they have proper coding style
+	4: 
+	3: some meaningful coding style, 50% of the criteria, done well.
+	2:
+	1: nonsense/messy coding style
+
+GUI Functionality   9 / 9
+	[Y] User has option to select which opponent to play against (Human, Greedy or Random)
+	[Y] GUI displays number of P1 and P2 tokens on board
+	[Y] GUI properly displays who wins when game is over
+	[Y] Appropriate player token is placed when a spot is clicked
+	[Y] Appropriate tokens are flipped is when a player places their token
+	[Y] Undo working, a button click rewinds the game to the previous human move
+	[Y] Restart working, clicking on the button brings the game to the initial state
+	[Y] Timers working, each timer times one player, and the length of the timer can be specifed.
+	[Y] The better player strategy is implemnented and working correctly.
+
+Architecture   6 / 11
+	Strategy   0 / 3
+		Setting player strategy (Human, Greedy and Random)
+
+		[N] There is a base strategy class and there are child strategy classes.
+		[N] The player has a method to set its strategy and has a method to retrieve a move from the strategy.
+		[N] Has strategy classes for Human, Greedy and Random Player  
+		
+	Factory   0 / 2
+		Constructing the different strategies
+
+		[N] There exists a factory class, with a method similar to createProduct(String s).
+		[N] Factory is used to return a Player Strategy
+		
+	Command   2 / 2
+		Objectifying moves
+
+		[Y] Command or Moves are objects.
+		[Y] There command/move objects are stored in a list in Othello.
+		
+	Visitor   4 / 4
+		Using visitors to visit places on the board
+		
+		[Y] There is a base class Visitor.
+		[Y] OthelloBoard has an 'accept(Visitor v)'.
+		[Y] Each visitor class has a 'visit(OthelloBoard b)' method. 
+		[Y] There are at least two separate visitors, e.g., MoveVisitor and HashMoveVisitor.
+
+sprintBacklogs   4 / 4
+	[Y] User stories in springBacklog1 has all/majority of Status, Priorities, Estimates, Owners for user stories and Issues clearly defined
+	[Y] User stories in springBacklog2 has all/majority of Status, Priorities, Estimates, Owners for user stories and Issues clearly defined
+	[Y] User stories in springBacklog3 has all/majority of Status, Priorities, Estimates, Owners for user stories and Issues clearly defined
+	[Y] User stories in springBacklog4 has all/majority of Status, Priorities, Estimates, Owners for user stories and Issues clearly defined
+
+Git   3 / 4
+	[Y] Branches on user stories (With reasonable naming convention)
+	[N] No/little code commits on master
+	[Y] Merges back to master
+	[Y] Git history looks relatively straightforward
+
+Members: Each member is given a fraction of the total amount of work
+	for the project. This is based on the user stories they worked on.
+	If all members appeared to work the same amount, each gets 25%.
+	If all members contribute equally, each gets 25/100.
+
+WORK BY UTORIDS 
+INDIVIDUAL: lishau 17/100
+	BUG #0.02 - Configure and use system
+	BUG #1.021 - Check Architecture
+	BUG #9.99 - Architecture Document
+	USER STORY #1.07 - Opponent Chooser GUI Selection
+	USER STORY #1.11 - Restart
+	USER STORY #1.12 - Undo
+INDIVIDUAL: mbaricha 21/100
+	BUG #0.03 - Configure and use system
+	BUG #1.092 - Running out of time issue
+	BUG #1.141 - Available players graphical issues
+	BUG #1.17 - Use Visitor for Othello board
+	USER STORY #1.02 - Othello Board Human VS Human
+	USER STORY #1.06 - Change tokens to Images
+	USER STORY #1.09 - Othello Timer User Specified Time
+	USER STORY #1.13 - Animation
+INDIVIDUAL: poojaryr 30/100
+	BUG #0.04 - Configure and use system
+	BUG #1.091 - 2 timers needed for game clarity
+	BUG #1.12 - Undo
+	BUG #1.152 - Code formatting and cleaning along with other minor changes
+	USER STORY #1.011 - OthelloGUI Buttons Active Console View
+	USER STORY #1.04 - Token Counter
+	USER STORY #1.05 - Who Won
+	USER STORY #1.071 - Opponent Chooser GUI Display
+	USER STORY #1.091 - Othello Timer User Specified Time
+	USER STORY #1.15 - Better strategy
+	USER STORY #1.17 - Alert Dialog Boxes
+INDIVIDUAL: tahvilim 31/100
+	BUG #0.01 - Configure and use system
+	BUG #1.071 - Letting user choose to be player 1 or player 2
+	BUG #1.101 - Fix hint buttons
+	BUG #1.102 - Fix speed and lag issue related to AI hint
+	BUG #1.151 - Hint buttons are not linked to each other
+	BUG #9.991 - Restart and GameOver Glitches
+	USER STORY #1.01 - OthelloGUI Click Registration
+	USER STORY #1.03 - Whos Next
+	USER STORY #1.08 - Opponent Chooser Implementation
+	USER STORY #1.10 - AI Hint
+	USER STORY #1.14 - Available moves
+	USER STORY #1.18 - UX Design of Othello
+
+DailyScrum
+	INDIVIDUAL: lishau 1/1
+	INDIVIDUAL: mbaricha 1/1
+	INDIVIDUAL: poojaryr 1/1
+	INDIVIDUAL: tahvilim 1/1
+
+FINAL MARK FOR A2:
+lishau: 31.11847390897485404660 / 40
+mbaricha: 32.30563169412834258890 / 40
+poojaryr: 34.51027777953328701140 / 40
+tahvilim: 34.72471599059755379390 / 40
+
+---------------------------------
+HOW THE FINAL MARK IS CALCULATED:
+
+group_mark = DOCUMENTATION + CODING STYLE + GUI FUNCTIONALITY + ARCHITECTURE + SPRINT BACKLOGS + GIT
+
+individual_mark = (WORK BY UTORID + 10 * DailyScrum) * 100 / 110
+
+final_grade = group_mark * (A ln(individual_mark + 1) + B) + C
+
+where:
+A = 0.29734
+B = 0.0070976
+C = 2
+
+The values of A, B, C are chosen so that:
+- if WORK BY UTORID is close to 0, then the student gets close to 0% of the group mark
+- if WORK BY UTORID is close to 25%, then the student gets close to 100% of the group mark
+- a WORK BY INDIVIDUAL of 100% led to a maximum of 105% over all students.
+- The average adjusted mark is similar to the average of the unadjusted marks, so marks are approximately conserved.
+
+NOTES: 
+*1 Does not run
+*2 OthelloModel is not clean. Code duplication. And Othello class is already the model, why this extra class?
+AvailableMoves extends Player, does not make sense.

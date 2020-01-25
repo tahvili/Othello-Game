@@ -1,0 +1,46 @@
+# Use this to outline your architecture, list the design patterns
+# you used in your code and how you used them. Use a few as appropriate
+# to make your code better, using them to complicate code will not help
+# your marks. Start by looking at the design patterns we covered in class.
+
+# USED 
+Observer/Observable : Created by TheNerds, to be used by the View to observe the Model.
+Command Design Pattern : Created by TheNerds, to be used by Model to use UndoMove.
+Visitor Design Pattern : Created by TheNerds, to be used by Othello and OthelloBoard to reduce the repeating code in those classes.
+
+
+# UNUSED
+Factory
+Singleton
+Decorator
+Strategy
+State
+Adapter
+Iterator
+Flyweight
+Facade
+Proxy
+Composite
+Prototype
+Abstract Factory
+Bridge
+Template Method
+Builder
+Chain of Responsibility
+...
+There are more...
+
+
+Interesting Features
+Starting Screen : Player can choose their opponent, human, greedy AI, randonm AI and better AI. They can also choose to
+		  go first or second and the play time.
+
+In Game : On the game board, a circular outline shows the available move. When a move was done, the tokens will fade in.
+	  Under the board, there is a counter showing how many tokens each player have on the board. A lable that shows 
+	  which player's turn. Player can also change their opponent any time during the game. Player can undo their move 
+	  with the undo button. If there is only one move on the board, a pop up will tell you that undo is not available.
+	  On the right of the board, there are four kind of hints for the player to choose. If a hint is choosen, one of 
+	  the available move circular outline will turn orange. There is also two timer for each player. If the time is up
+	  for one of the player that player will lose the game. Lastly, there is a restart button. If it was clicked, a pop
+	  up will appear and ask if the player really want to restart. If the answer is yes, the game will go back the 
+	  starting screen. If they click cancel, the game will continue.

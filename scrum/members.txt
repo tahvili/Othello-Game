@@ -1,0 +1,6 @@
+Member1 name: Mohammad Tahvili       		email: mohammad.tahvili@mail.utoronto.ca        utorid: tahvilim
+Member2 name: Shau Ching Michael Li         email: michaelsc.li@mail.utoronto.ca       		utorid: lishau
+Member3 name: Richard Mba        			email: richard.mba@mail.utoronto.ca        		utorid: mbaricha
+Member4 name: Rohan Poojary        			email: rohan.poojary@mail.utoronto.ca 			utorid: poojaryr
+
+Coach name: Krish Chowdhary          		email: krish.chowdhary@utoronto.ca

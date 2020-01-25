@@ -1,0 +1,17 @@
+USER 1 = Mohammad Tahvili is the owner of the following authors:
+				Mohammad Tahvili <mohammad.tahvili@mail.utoronto.ca>
+				brebeuftv <37161197+brebeuftv@users.noreply.github.com>
+				
+USER 2 = Shau Ching Michael Li is the owner of the following authors:
+				Shau Ching Michael Li <michaelsc.li@mail.utoronto.ca>
+				
+USER 3 = Richard Mba is the owner of the following authors:
+				Richard Mba <richard.mba@mail.utoronto.ca>
+				laxat <fatman7100@gmail.com>
+				
+USER 4 = Rohan Poojary is the owner of the following authors:
+				Rohan Poojary <rohan.poojary@mail.utoronto.ca>
+				RohanPoojary1107 <rohanpoojary10@gmail.com>
+				
+
+				
