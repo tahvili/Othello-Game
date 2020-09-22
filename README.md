@@ -18,7 +18,7 @@ A strategy board game for two players, played on an 8×8 uncheckered board, buil
 
 # Getting Started
 ### 1. Clone
-  - Clone this repo to your local machine using: https://github.com/RohanPoojary1107/Othello-Game.git
+  - Clone this repo to your local machine using: https://github.com/tahvili/Othello-Game.git
 
 ### 2. Open the folder in the IDE of your choice
 ### 3. Run
